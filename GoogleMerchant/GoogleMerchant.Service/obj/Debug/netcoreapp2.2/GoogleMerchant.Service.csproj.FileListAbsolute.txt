@@ -4,3 +4,6 @@ C:\Users\enrico\Documents\Progetti\GoogleMerchant\GoogleMerchant\GoogleMerchant.
 C:\Users\enrico\Documents\Progetti\GoogleMerchant\GoogleMerchant\GoogleMerchant.Service\obj\Debug\netcoreapp2.2\GoogleMerchant.Service.csproj.CoreCompileInputs.cache
 C:\Users\enrico\Documents\Progetti\GoogleMerchant\GoogleMerchant\GoogleMerchant.Service\obj\Debug\netcoreapp2.2\GoogleMerchant.Service.AssemblyInfoInputs.cache
 C:\Users\enrico\Documents\Progetti\GoogleMerchant\GoogleMerchant\GoogleMerchant.Service\obj\Debug\netcoreapp2.2\GoogleMerchant.Service.AssemblyInfo.cs
+C:\Users\enrico\Documents\Progetti\GoogleMerchant\GoogleMerchant\GoogleMerchant.Service\bin\Debug\netcoreapp2.2\GoogleMerchant.Service.pdb
+C:\Users\enrico\Documents\Progetti\GoogleMerchant\GoogleMerchant\GoogleMerchant.Service\obj\Debug\netcoreapp2.2\GoogleMerchant.Service.dll
+C:\Users\enrico\Documents\Progetti\GoogleMerchant\GoogleMerchant\GoogleMerchant.Service\obj\Debug\netcoreapp2.2\GoogleMerchant.Service.pdb

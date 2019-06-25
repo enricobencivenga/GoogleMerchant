@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Google.Apis.ShoppingContent.v2;
+using GoogleMerchant.Service;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -6,9 +8,13 @@ namespace GoogleMerchant.Jobs
 {
     class Program
     {
-        public static void Main(String[] args)
+        private static readonly int MaxListPageSize = 50;
+
+
+        [STAThread]
+        internal static void Main(string[] args)
         {
-            Console.WriteLine("Ecco");
+            EntryService.Run(args);
         }
     }
 }

@@ -7,4 +7,8 @@
     <StartupObject />
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\GoogleMerchant.Service\GoogleMerchant.Service.csproj" />
+  </ItemGroup>
+
 </Project>

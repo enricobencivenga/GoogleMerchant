@@ -3,11 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.645
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleMerchant.Jobs", "GoogleMerchant.Jobs\GoogleMerchant.Jobs.csproj", "{B72A7D25-8F29-4124-A1CB-033C4D9C486D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoogleMerchant.Jobs", "GoogleMerchant.Jobs\GoogleMerchant.Jobs.csproj", "{B72A7D25-8F29-4124-A1CB-033C4D9C486D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleMerchant.Service", "GoogleMerchant.Service\GoogleMerchant.Service.csproj", "{37B402BD-516E-495C-8704-A3B9F1889E62}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleMerchant.Sync", "GoogleMerchant.Sync\GoogleMerchant.Sync.csproj", "{7ADB05D7-A788-4836-9673-9F6CDF9347E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoogleMerchant.Service", "GoogleMerchant.Service\GoogleMerchant.Service.csproj", "{37B402BD-516E-495C-8704-A3B9F1889E62}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +21,6 @@ Global
 		{37B402BD-516E-495C-8704-A3B9F1889E62}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37B402BD-516E-495C-8704-A3B9F1889E62}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37B402BD-516E-495C-8704-A3B9F1889E62}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7ADB05D7-A788-4836-9673-9F6CDF9347E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7ADB05D7-A788-4836-9673-9F6CDF9347E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7ADB05D7-A788-4836-9673-9F6CDF9347E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7ADB05D7-A788-4836-9673-9F6CDF9347E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

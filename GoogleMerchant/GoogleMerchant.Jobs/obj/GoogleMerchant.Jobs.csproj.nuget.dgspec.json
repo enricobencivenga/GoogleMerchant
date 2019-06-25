@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\enrico\\Documents\\Progetti\\GoogleMerchant\\GoogleMerchant\\GoogleMerchant.Jobs\\GoogleMerchant.Jobs.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\enrico\\Documents\\Progetti\\GoogleMerchant\\GoogleMerchant\\GoogleMerchant.Jobs\\GoogleMerchant.Jobs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\enrico\\Documents\\Progetti\\GoogleMerchant\\GoogleMerchant\\GoogleMerchant.Jobs\\GoogleMerchant.Jobs.csproj",
+        "projectName": "GoogleMerchant.Jobs",
+        "projectPath": "C:\\Users\\enrico\\Documents\\Progetti\\GoogleMerchant\\GoogleMerchant\\GoogleMerchant.Jobs\\GoogleMerchant.Jobs.csproj",
+        "packagesPath": "C:\\Users\\enrico\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\enrico\\Documents\\Progetti\\GoogleMerchant\\GoogleMerchant\\GoogleMerchant.Jobs\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\enrico\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/codiceplastico/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -9,3 +9,6 @@ C:\Users\enrico\Documents\Progetti\GoogleMerchant\GoogleMerchant\GoogleMerchant.
 C:\Users\enrico\Documents\Progetti\GoogleMerchant\GoogleMerchant\GoogleMerchant.Jobs\bin\Debug\netcoreapp2.2\GoogleMerchant.Jobs.pdb
 C:\Users\enrico\Documents\Progetti\GoogleMerchant\GoogleMerchant\GoogleMerchant.Jobs\obj\Debug\netcoreapp2.2\GoogleMerchant.Jobs.dll
 C:\Users\enrico\Documents\Progetti\GoogleMerchant\GoogleMerchant\GoogleMerchant.Jobs\obj\Debug\netcoreapp2.2\GoogleMerchant.Jobs.pdb
+C:\Users\enrico\Documents\Progetti\GoogleMerchant\GoogleMerchant\GoogleMerchant.Jobs\bin\Debug\netcoreapp2.2\GoogleMerchant.Service.dll
+C:\Users\enrico\Documents\Progetti\GoogleMerchant\GoogleMerchant\GoogleMerchant.Jobs\bin\Debug\netcoreapp2.2\GoogleMerchant.Service.pdb
+C:\Users\enrico\Documents\Progetti\GoogleMerchant\GoogleMerchant\GoogleMerchant.Jobs\obj\Debug\netcoreapp2.2\GoogleMerchant.Jobs.csproj.CopyComplete
