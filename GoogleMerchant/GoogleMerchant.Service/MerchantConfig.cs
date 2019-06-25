@@ -48,6 +48,7 @@ namespace GoogleMerchant.Service
                 config.ConfigDir = contentPath;
                 return config;
             }
+            C
             using (StreamReader reader = File.OpenText(contentFile))
             {
                 config = (MerchantConfig)JToken.ReadFrom(new JsonTextReader(reader))

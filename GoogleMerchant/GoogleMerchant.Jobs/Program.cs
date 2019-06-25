@@ -1,8 +1,7 @@
-﻿using Google.Apis.ShoppingContent.v2;
-using GoogleMerchant.Service;
+﻿using GoogleMerchant.Service;
+using Microsoft.Extensions.Configuration;
 using System;
-using System.Collections.Generic;
-using System.Text;
+using System.IO;
 
 namespace GoogleMerchant.Jobs
 {
@@ -14,6 +13,14 @@ namespace GoogleMerchant.Jobs
         [STAThread]
         internal static void Main(string[] args)
         {
+            var builder = new ConfigurationBuilder()
+                .SetBasePath(Directory.GetCurrentDirectory())
+                .AddJsonFile("appsettings.json", optional: true, reloadOnChange: true);
+
+            IConfigurationRoot configuration = builder.Build();
+
+            Console.WriteLine(configuration.GetConnectionString("Storage"));
+
             EntryService.Run(args);
         }
     }
